@@ -1,0 +1,21 @@
+///*
+// Fernando Luis Aguiar Guevarez
+// Lab 5 Functions
+// 05/14/15
+// SDI
+// */
+//
+////alert("JavaScript works!");
+//
+//// Global Variables
+//
+//var operationResult;
+//
+//// Functions
+//
+//function addingFunction()
+//{
+//    //Addition Function
+//    operationResult = (userNumber1 + userNumber2);
+//    return operationResult;
+//}
